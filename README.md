@@ -12,8 +12,7 @@ Colab guide for fine-tuning **LiquidAI/LFM2-VL-1.6B** with **LoRA (PEFT)** and *
 2) In Colab: **Runtime → Change runtime type → GPU**.
 3) Run cells top-to-bottom. When prompted, upload your `train_data.zip`.
 4) After training, download `lfm2_adapter.zip`.  
-   Optional: upload `probe.7z` (or images) to test and get `preds.jsonl`.
-
+   Optional: upload `probe.7z` (or any `.7z` with images, e.g. `probe.7z` / `prob.7z`, or upload images directly) to test and get `preds.jsonl`.
 ---
 Latest release: https://github.com/Absurd7550/lfm2-vl-finetune-guide/releases/tag/v1.0
 ## What you will get
