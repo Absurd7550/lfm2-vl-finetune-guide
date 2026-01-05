@@ -15,7 +15,7 @@ Colab guide for fine-tuning **LiquidAI/LFM2-VL-1.6B** with **LoRA (PEFT)** and *
    Optional: upload `probe.7z` (or images) to test and get `preds.jsonl`.
 
 ---
-
+Latest release: https://github.com/Absurd7550/lfm2-vl-finetune-guide/releases/tag/v1.0
 ## What you will get
 
 - A small LoRA adapter you can share:
