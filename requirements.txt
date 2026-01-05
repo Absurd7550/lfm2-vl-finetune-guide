@@ -1,0 +1,6 @@
+pillow<12
+transformers
+peft
+accelerate
+bitsandbytes
+huggingface_hub
