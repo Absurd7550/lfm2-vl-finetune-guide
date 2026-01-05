@@ -1,6 +1,6 @@
 # lfm2-vl-finetune-guide
 “Colab guide for fine-tuning LiquidAI/LFM2-VL-1.6B with LoRA”
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Absurd7550/lfm2-vl-finetune-guide/blob/main/train_colab.ipynb)
 # Fine-tuning LiquidAI/LFM2-VL-1.6B on your own images (Colab, LoRA, 4-bit)
 
 This repository is a practical, step-by-step guide to fine-tuning **LiquidAI/LFM2-VL-1.6B** on your own image+text dataset using **Google Colab**, **LoRA (PEFT)** and **4-bit quantization**.
